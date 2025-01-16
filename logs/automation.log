@@ -1,0 +1,44 @@
+2025-01-07 00:01:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV123\master.xml
+
+2025-01-07 00:01:42 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-01-07 00:01:42 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-01-07 00:01:42 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2025-01-07 00:01:42 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2025-01-07 00:01:43 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2025-01-07 00:01:43 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-01-07 00:01:51 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-01-07 00:02:03 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-01-07 00:02:04 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-01-07 00:02:06 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-01-07 00:02:17 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2025-01-07 00:02:17 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-01-07 00:02:19 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2025-01-07 09:50:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV123\master.xml
+
+2025-01-07 09:50:26 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-01-07 09:50:26 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-01-07 09:50:27 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2025-01-07 09:50:27 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2025-01-07 09:50:27 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2025-01-07 09:50:28 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-01-07 09:50:33 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-01-07 09:50:45 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-01-07 09:50:46 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-01-07 09:50:48 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-01-07 09:50:59 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2025-01-07 09:50:59 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-01-07 09:51:01 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2025-01-07 11:52:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV123\grouping.xml
+
+2025-01-07 11:52:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV123\crossbrowsetesting.xml
+
+2025-01-07 12:03:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV123\crossbrowsetesting.xml
+
+2025-01-07 12:07:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV123\crossbrowsetesting.xml
+
